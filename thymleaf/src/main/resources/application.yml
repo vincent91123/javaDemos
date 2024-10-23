@@ -1,0 +1,39 @@
+spring:
+  thymeleaf:
+    suffix: .html
+    prefix: classpath:/templates/
+    enabled: true
+    encoding: UTF-8
+  profiles:
+    active: prod
+  # 配置JDBC的连接信息
+  datasource:
+    url:  jdbc:mysql://localhost:3306/service-driver-user?characterEncoding=utf-8&serverTimezone=GMT%2B8
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: root
+  redis:
+    # redis链接地址
+    host: 127.0.0.1
+    # redis链接端口
+    port: 6379
+    # redis链接密码
+    password:
+    # redis连接池
+    lettuce:
+      pool:
+        # 最大链接数
+        max-active: 8
+        # 最大建立链接等待时间，-1为无限制
+        max-wait: -1
+        # 最大空闲数
+        max-idle: 8
+        # 最小空闲数
+        min-idle: 0
+      # 关闭超时时间，在关闭客户端链接之前等待任务处理完成的最长时间，在这之后，无论任务是否执行完成，都会被执行器关闭
+      shutdown-timeout: 100
+    database: 2         # 使用Redis中的第三个分区，默认是0
+
+mybatis:
+  type-aliases-package: com.panpan.thymleaf.entity
+  mapper-locations: classpath:mapper/**.xml

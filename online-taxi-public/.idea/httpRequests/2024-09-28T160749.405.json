@@ -1,0 +1,7 @@
+{
+  "timestamp": "2024-09-28T08:07:49.533+00:00",
+  "status": 405,
+  "error": "Method Not Allowed",
+  "message": "",
+  "path": "/verification-code"
+}

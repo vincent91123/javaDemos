@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05d5f176-45c9-45af-bac0-4acb8a755d02" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2mdT2gEqWsEdkoEKzfUqMC2Jz6c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.JwtUtils.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MysqlGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PriceService.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #4.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #5.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #6.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.api-boss [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.api-boss [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.api-passenger-user [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.api-passenger-user [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.internal-common [validate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.online-taxi-public [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.online-taxi-public [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.online-taxi-public [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.service-driver-user [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.service-driver-user [deploy].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.service-driver-user [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.service-price [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.service-price [install].executor&quot;: &quot;Run&quot;,
+    &quot;MyBatisLogPluginindexNum&quot;: &quot;25&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ApiBossApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ApiDriverApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ApiPassengerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ApiPassengerUserApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.InternalCommonApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ServiceDriverUserApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ServiceVerificationCodeApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ServicemapApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ServicepriceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/APPs/WorkSpace/java/online-taxi-public/service-driver-user/src/main/java/com/panpan/servicedriveruser/generator&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;F:/APPs/WorkSpace/java/online-taxi-public/service-verificationCode/src/main/java/com/panpan/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.291954&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\APPs\WorkSpace\java\online-taxi-public\service-driver-user\src\main\java\com\panpan\servicedriveruser\generator" />
+      <recent name="F:\APPs\WorkSpace\java\online-taxi-public\api-driver\src\main\java\com\panpan\apidriver\remote" />
+      <recent name="F:\APPs\WorkSpace\java\online-taxi-public\api-driver\src\main\java\com\panpan\apidriver\service" />
+      <recent name="F:\APPs\WorkSpace\java\online-taxi-public\api-driver\src\main\java\com\panpan\apidriver\controller" />
+      <recent name="F:\APPs\WorkSpace\java\online-taxi-public\api-boss\src\main\java\com\panpan\apiboss\remote" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.panpan.servicedriveruser.controller" />
+      <recent name="com.panpan.servicemap.controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MysqlGenerator">
+    <configuration name="MysqlGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.panpan.servicedriveruser.generator.MysqlGenerator" />
+      <module name="service-driver-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.panpan.servicedriveruser.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiBossApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="api-boss" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.panpan.apiboss.ApiBossApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.panpan.apiboss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiDriverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="api-driver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.panpan.apidriver.ApiDriverApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.panpan.apidriver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InternalCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="internal-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.panpan.internalcommon.InternalCommonApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.panpan.internalcommon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceDriverUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-driver-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.panpan.servicedriveruser.ServiceDriverUserApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.panpan.servicedriveruser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MysqlGenerator" />
+        <item itemvalue="Spring Boot.ServiceDriverUserApplication" />
+        <item itemvalue="Spring Boot.ApiDriverApplication" />
+        <item itemvalue="Spring Boot.ApiBossApplication" />
+        <item itemvalue="Spring Boot.InternalCommonApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05d5f176-45c9-45af-bac0-4acb8a755d02" name="Changes" comment="" />
+      <created>1727405251090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727405251090</updated>
+      <workItem from="1727405252332" duration="4901000" />
+      <workItem from="1727416068594" duration="7076000" />
+      <workItem from="1727485798896" duration="12485000" />
+      <workItem from="1727507351745" duration="7308000" />
+      <workItem from="1728259449301" duration="21357000" />
+      <workItem from="1728346213155" duration="21492000" />
+      <workItem from="1728375624782" duration="1295000" />
+      <workItem from="1728519204836" duration="23279000" />
+      <workItem from="1728605205456" duration="18514000" />
+      <workItem from="1728692456141" duration="13579000" />
+      <workItem from="1728864545323" duration="5166000" />
+      <workItem from="1728950542579" duration="3622000" />
+      <workItem from="1729040785744" duration="6631000" />
+      <workItem from="1729124061971" duration="19562000" />
+      <workItem from="1729210137402" duration="5569000" />
+      <workItem from="1729469587782" duration="6869000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/panpan/Main.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/service-verificationCode/pom.xml" />
+        <option value="$PROJECT_DIR$/internal-common/pom.xml" />
+        <option value="$PROJECT_DIR$/api-passenger-user/pom.xml" />
+        <option value="$PROJECT_DIR$/serviceprice/pom.xml" />
+        <option value="$PROJECT_DIR$/servicemap/pom.xml" />
+        <option value="$PROJECT_DIR$/service-price/pom.xml" />
+        <option value="$PROJECT_DIR$/service-map/pom.xml" />
+        <option value="$PROJECT_DIR$/service-driver-user/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/api-passenger-user/pom.xml" />
+        <option value="$PROJECT_DIR$/service-price/ear/pom.xml" />
+        <option value="$PROJECT_DIR$/service-price/ejbs/pom.xml" />
+        <option value="$PROJECT_DIR$/service-price/primary-source/pom.xml" />
+        <option value="$PROJECT_DIR$/service-price/projects/pom.xml" />
+        <option value="$PROJECT_DIR$/service-price/servlets/pom.xml" />
+      </set>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

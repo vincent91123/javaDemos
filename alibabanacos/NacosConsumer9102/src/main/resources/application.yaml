@@ -1,0 +1,16 @@
+server:
+  port: 9102
+spring:
+  application:
+    name: nacos-openFeign
+  cloud:
+    discovery:
+      server-addr: 10.1.11.159:80
+
+management:
+  endpoint:
+    web:
+      exposure:
+        include:'*'
+service-url:
+  nacos-user-service: http://nacos-provider

@@ -13,6 +13,6 @@ public class UserController {
     @GetMapping("/hello")
     public String hello(){
         System.out.println("-----------hello,Nacos provider run-----------");
-        return "hellopanpan，。。。。。9001";
+        return "hello panpan,9002";
     }
 }
